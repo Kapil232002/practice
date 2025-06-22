@@ -24,4 +24,5 @@ This project is a simple repository to practice Git and GitHub commands using VS
 ---
 
 *Created by **Kapil Kumar***  
-📧 kapilkumar23222@gmail.com
+📧 kapil23222@gmail.com
+
