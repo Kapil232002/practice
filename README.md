@@ -1,6 +1,6 @@
 # Git and GitHub Practice
 
-This project is a simple repository to practice Git and GitHub commands using VS Code.
+This project is a simple repository to practice Git and GitHub commands using VS Code.(dropdown)
 
 ## 📁 Files Included
 
@@ -25,4 +25,3 @@ This project is a simple repository to practice Git and GitHub commands using VS
 
 *Created by **Kapil Kumar***  
 📧 kapil23222@gmail.com
-
